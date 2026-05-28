@@ -1,11 +1,34 @@
-# Olá, me chamo Bianca, mas pode me chamar de Bia
+# Olá, sou a Bia! 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+🎓 _Estudante de Análise e Desenvolvimento de Sistemas._
 
-💻 Apaixonada por desenvolvimento web e interfaces modernas.
+💻 _Apaixonada por desenvolvimento web, interfaces modernas e experiências digitais intuitivas._
 
-🚀 Focada em React, Next.js, TypeScript e experiências digitais responsivas.
+🚀 _Atualmente focada em React, Next.js, TypeScript e desenvolvimento Full Stack._
 
-🎯 Em constante evolução para me tornar uma desenvolvedora Full Stack cada vez mais completa.
+🎯 _Meu objetivo é evoluir constantemente como Desenvolvedora de Software, criando aplicações modernas, performáticas e com código limpo._
 
 ---
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vscode&theme=dark" />
+</div>
+
+**_Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
+Sinta-se à vontade para entrar em contato comigo através das redes abaixo._**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bianca-oliveira-73b433333/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/bihh_olliveira_/" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-6d28d9?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:bibiolly2006@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+</div>
