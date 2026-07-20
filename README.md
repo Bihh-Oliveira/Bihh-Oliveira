@@ -1,34 +1,62 @@
-# Olá, sou a Bia! 👋
+<h1 align="center">
+Desenvolvedora Full Stack💜
+</h1>
 
-🎓 _Estudante de Análise e Desenvolvimento de Sistemas._
+<h3 align="center">
+___Construindo um futuro, uma linha de código por vez___
+</h3>
+
+---
+
+## 👩‍💻 Sobre mim
+
+🎓 _Formada em Análise e Desenvolvimento de Sistemas._
 
 💻 _Apaixonada por desenvolvimento web, interfaces modernas e experiências digitais intuitivas._
+
+✨ _Construindo projetos para aprimorar minhas habilidades em desenvolvimento web._
 
 🚀 _Atualmente focada em React, Next.js, TypeScript e desenvolvimento Full Stack._
 
 🎯 _Meu objetivo é evoluir constantemente como Desenvolvedora de Software, criando aplicações modernas, performáticas e com código limpo._
 
 ---
+
+## 🚀 Tecnologias
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark" />
+
 </div>
 
-**_Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
-Sinta-se à vontade para entrar em contato comigo através das redes abaixo._**
+---
+
+## 🌎 Onde me encontrar
+
+_Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
+Sinta-se à vontade para entrar em contato comigo através das redes abaixo._
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bianca-oliveira-73b433333/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/bianca-oliveira-73b433333/">
+<img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/bihh_olliveira_/" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-6d28d9?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:bibidev2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:bibiolly2006@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.instagram.com/bihh_olliveira_/">
+<img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+
+✨ Obrigada por visitar meu perfil!
 
 </div>
