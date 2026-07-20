@@ -12,9 +12,7 @@ ___Construindo um futuro, uma linha de código por vez___
 
 🎓 _Formada em Análise e Desenvolvimento de Sistemas._
 
-💻 _Apaixonada por desenvolvimento web, interfaces modernas e experiências digitais intuitivas._
-
-✨ _Construindo projetos para aprimorar minhas habilidades em desenvolvimento web._
+💻 _Construindo projetos para aprimorar minhas habilidades em desenvolvimento web._
 
 🚀 _Atualmente focada em React, Next.js, TypeScript e desenvolvimento Full Stack._
 
