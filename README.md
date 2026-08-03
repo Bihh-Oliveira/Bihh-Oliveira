@@ -24,7 +24,7 @@ ___Construindo um futuro, uma linha de código por vez___
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,supabase,git,github,vscode&theme=dark" />
 
 </div>
 
