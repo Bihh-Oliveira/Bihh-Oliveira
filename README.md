@@ -1,60 +1,50 @@
-<h1 align="center">
-Desenvolvedora Full Stack💜
-</h1>
+<!-- BANNER ANIMADO DO PERFIL -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bianca/bianca/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bianca/bianca/main/light.svg">
+  <img alt="Bianca" src="https://raw.githubusercontent.com/bianca/bianca/main/light.svg">
+</picture>
 
-<h3 align="center">
-___Construindo um futuro, uma linha de código por vez___
-</h3>
+<br/><br/>
 
----
-
-## 👩‍💻 Sobre mim
-
-🎓 _Formada em Análise e Desenvolvimento de Sistemas._
-
-💻 _Construindo projetos para aprimorar minhas habilidades em desenvolvimento web._
-
-🚀 _Atualmente focada em React, Next.js, TypeScript e desenvolvimento Full Stack._
-
-🎯 _Meu objetivo é evoluir constantemente como Desenvolvedora de Software, criando aplicações modernas, performáticas e com código limpo._
-
----
-
-## 🚀 Tecnologias
-
+<!-- CARDS DE ESTATÍSTICAS E TECNOLOGIAS -->
 <div align="center">
+  <!-- Card de Sequência (Streak) -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=bianca&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Streak Stats" />
+  
+  <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,supabase,git,github,vscode&theme=dark" />
-
+  <!-- Estatísticas Gerais (Hospedadas na Vercel) -->
+  <img width="49%" src="https://SEU-INSTANCIA-VERCEL.vercel.app/api?username=bianca&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+  
+  <!-- Linguagens mais utilizadas -->
+  <img width="49%" src="https://SEU-INSTANCIA-VERCEL.vercel.app/api/top-langs/?username=bianca&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
 </div>
 
----
+<br/><br/>
 
-## 🌎 Onde me encontrar
-
-_Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
-Sinta-se à vontade para entrar em contato comigo através das redes abaixo._
-
+<!-- ANIMAÇÃO DA COBRINHA DE CONTRIBUIÇÕES -->
 <div align="center">
-
-<a href="https://www.linkedin.com/in/bianca-oliveira-73b433333/">
-<img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bibidev2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/bihh_olliveira_/">
-<img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bianca/bianca/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bianca/bianca/output/github-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/bianca/bianca/output/github-snake.svg" />
+  </picture>
 </div>
 
----
+<br/><br/>
 
+<!-- BADGES DE REDES SOCIAIS E CONTATO -->
 <div align="center">
-
-✨ Obrigada por visitar meu perfil!
-
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/SEU_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL@DOMINIO.COM">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
 </div>
