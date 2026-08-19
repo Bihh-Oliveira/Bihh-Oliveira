@@ -14,13 +14,14 @@
 
 ---
 
-### `Quem sou eu?`
+### `✨ Quem sou eu?`
 
 ```ts
 const bianca = {
   cargo: "Desenvolvedora Full Stack",
+  Formação: "Análise e Desenvolvimento de Sistemas",
   foco: ["Desenvolvimento Web", "Frontend", "Backend"],
-  aprendendoAtualmente: ["Next.js", "TypeScript", "JavaScript", "React.js", "Python"],
+  aprendendoAtualmente: ["Integração com API", "Next.js", "TypeScript", "JavaScript", "React.js", "Python"],
   mentalidade: "qualidade em cada projeto",
   objetivo: "aprender, criar e evoluir"
 };
@@ -28,7 +29,7 @@ const bianca = {
 
 ---
 
-### `Tecnologias`
+### `💻 Tecnologias`
 
 <div align="center">
 
@@ -38,7 +39,7 @@ const bianca = {
 
 ---
 
-### `O que eu faço`
+### `📍 O que eu faço`
 
 ```text
 ┌─────────────────────────────────────────────────────┐
@@ -54,16 +55,16 @@ const bianca = {
 
 ---
 
-### `Atualmente`
+### `📈 Atualmente`
 
-> 🟣 Criando projetos
-> 🔵 Aprimorando minhas habilidades de desenvolvimento
-> 🟢 Explorando melhores formas de escrever software
-> ⚡ Transformando cafeína em commits
+- [x] Criando projetos
+- [x] Aprimorando minhas habilidades de desenvolvimento
+- [x] Explorando boas práticas
+- [x] Transformando cafeína em commits
 
 ---
 
-### `Contato`
+### `🌎 Contato`
 
 > Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
 Sinta-se à vontade para entrar em contato comigo através das redes abaixo.
