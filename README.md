@@ -1,26 +1,34 @@
 <h1 align="center">
-Desenvolvedora Full Stack💜
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bianca+Oliveira;Building+ideas+into+code." />
 </h1>
 
-<h3 align="center">
-___Construindo um futuro, uma linha de código por vez___
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4c1d95,100:a855f7&height=120&section=header"/>
+</p>
+
+<h2 align="center">💜 Full Stack Developer</h2>
+
+<p align="center">
+  Transformando ideias em aplicações, uma linha de código por vez.
+</p>
 
 ---
 
-## 👩‍💻 Sobre mim
+### `Quem sou eu?`
 
-🎓 _Formada em Análise e Desenvolvimento de Sistemas._
-
-💻 _Construindo projetos para aprimorar minhas habilidades em desenvolvimento web._
-
-🚀 _Atualmente focada em React, Next.js, TypeScript e desenvolvimento Full Stack._
-
-🎯 _Meu objetivo é evoluir constantemente como Desenvolvedora de Software, criando aplicações modernas, performáticas e com código limpo._
+```ts
+const bianca = {
+  cargo: "Desenvolvedora Full Stack",
+  foco: ["Desenvolvimento Web", "Frontend", "Backend"],
+  aprendendoAtualmente: ["Next.js", "TypeScript", "JavaScript", "React.js", "Python"],
+  mentalidade: "qualidade em cada projeto",
+  objetivo: "aprender, criar e evoluir"
+};
+```
 
 ---
 
-## 🚀 Tecnologias
+### `Tecnologias`
 
 <div align="center">
 
@@ -30,31 +38,58 @@ ___Construindo um futuro, uma linha de código por vez___
 
 ---
 
-## 🌎 Onde me encontrar
+### `O que eu faço`
 
-_Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
-Sinta-se à vontade para entrar em contato comigo através das redes abaixo._
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bianca-oliveira-73b433333/">
-<img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bibidev2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/bihh_olliveira_/">
-<img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  ▸ Desenvolvimento de aplicações web modernas       │
+│  ▸ Criação de interfaces responsivas e intuitivas   │
+│  ▸ Organização e estruturação de aplicações         │
+│  ▸ Criação de projetos Full Stack                   │
+│  ▸ Aprendizado e evolução constante                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-<div align="center">
+### `Atualmente`
 
-✨ Obrigada por visitar meu perfil!
+> 🟣 Criando projetos
+> 🔵 Aprimorando minhas habilidades de desenvolvimento
+> 🟢 Explorando melhores formas de escrever software
+> ⚡ Transformando cafeína em commits
 
-</div>
+---
+
+### `Contato`
+
+> Estou sempre aberta a aprender coisas novas, trocar experiências e colaborar em projetos criativos e desafiadores.
+Sinta-se à vontade para entrar em contato comigo através das redes abaixo.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bianca-oliveira-73b433333/">
+<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bibidev2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/bihh_olliveira_/">
+<img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>“Building ideas into code.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:4c1d95,100:020617&height=100&section=footer"/>
+</p>
