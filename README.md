@@ -1,14 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bianca+Oliveira;Full+Stack+Developer;Building+ideas+into+code." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bianca+Oliveira;Building+ideas+into+code." />
 </h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4c1d95,100:a855f7&height=120&section=header"/>
 </p>
 
-<h2 align="center">
-Transformando ideias em aplicações, uma linha de código por vez💜
-</h2>
+<h2 align="center">💜 Full Stack Developer</h2>
+
+<p align="center">
+  Transformando ideias em aplicações, uma linha de código por vez.
+</p>
 
 ---
 
@@ -92,3 +94,4 @@ Sinta-se à vontade para entrar em contato comigo através das redes abaixo.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:4c1d95,100:020617&height=100&section=footer"/>
 </p>
+ deixei assim, mas a imagem e "full stack developer" ta longe um do outro queria subir um pouco as coisas
