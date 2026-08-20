@@ -94,4 +94,4 @@ Sinta-se à vontade para entrar em contato comigo através das redes abaixo.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:4c1d95,100:020617&height=100&section=footer"/>
 </p>
- deixei assim, mas a imagem e "full stack developer" ta longe um do outro queria subir um pouco as coisas
+
